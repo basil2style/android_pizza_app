@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">BasilAlias1</string>
+    <string name="title_activity_details" translatable="false">DetailsActivity</string>
+    <string name="btn_checkout">Checkout</string>
+    <string name="text1">Enter card details</string>
+    <string name="confrm">Confirmation #</string>
+    <string name="price">Price</string>
+    <string name="order_checkout">Order Checkout</string>
+    <string name="review_order">Review Order</string>
+    <string name="Pizza" translatable="false">Pizza </string>
+    <string name="pizza_size">Pizza Size</string>
+    <string name="dough_size">Dough Size</string>
+    <string name="toppings">Toppings</string>
+    <string name="review_confirm_order"><![CDATA[Review & confirm]]></string>
+    <string name="action_help">Help</string>
+    <string name="action_name">Basil Alias</string>
+    <string name="action_Pizza" translatable="false">Pizza</string>
+    <string-array name="toppings">
+        <item>Chicken</item>
+        <item>Pepporoni</item>
+        <item>Mushrooms</item>
+        <item>Bacons</item>
+        <item>Pineapple</item>
+        <item>Tomatoes</item>
+        <item>Onioins</item>
+    </string-array>
+</resources>

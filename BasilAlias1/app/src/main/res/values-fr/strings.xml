@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BasilAlias1</string>
+    <string name="Pizza">Pizza</string>
+    <string name="action_Pizza">Pizza</string>
+    <string name="action_help">Aidez-moi </string>
+    <string name="action_name">Basil Alias</string>
+    <string name="btn_checkout">check-out </string>
+    <string name="confrm">confirmation </string>
+    <string name="dough_size">pâte Taille </string>
+    <string name="order_checkout">pour la caisse </string>
+    <string name="pizza_size">Pizza Size</string>
+    <string name="price">prix</string>
+    <string name="review_confirm_order">la revue </string>
+    <string name="review_order">la revue </string>
+    <string name="text1"> entrer les coordonnées de la carte</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="toppings">garnitures </string>
+</resources>
